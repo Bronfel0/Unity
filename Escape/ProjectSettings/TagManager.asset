@@ -7,11 +7,14 @@ TagManager:
   - mine
   - heal
   - targ
+  - grt
+  - gr
+  - Enemy
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
