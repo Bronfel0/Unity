@@ -8,6 +8,10 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float _speed;
     [SerializeField] private Vector3 _direction;
     
+    private void Start()
+    {
+        
+    }
 
     private void Update()
     {
